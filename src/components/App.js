@@ -13,11 +13,20 @@ const App = () => {
     <svg className="bigstar">
       <circle cx="5" cy="5" r="5" fill="#F7F3E3" />
     </svg>
-    <svg viewBox="0 0 100 100">
+    <svg viewBox="0 0 100 100" height="80%" width="100%" className="stars">
       <Star cx={10} cy={20} r={0.2} />
       <Star cx={70} cy={40} r={0.1} />
       <Star cx={40} cy={10} r={0.3} />
       <Star cx={60} cy={30} r={0.1} />
+      <Star cx={50} cy={20} r={0.1} />
+      <Star cx={20} cy={10} r={0.2} />
+      <Star cx={40} cy={30} r={0.1} />
+      <Star cx={40} cy={70} r={0.3} />
+      <Star cx={10} cy={30} r={0.1} />
+      <Star cx={50} cy={10} r={0.1} />
+      <Star cx={20} cy={30} r={0.2} />
+      <Star cx={30} cy={20} r={0.2} />
+      <Star cx={40} cy={10} r={0.2} />
     </svg>
     <svg height="120" width="650" className="cloud1">
       <polygon points="296 207,316 195,349 205,382 230,407 210,438 199,443 167,417 152,395 132,371 141,307 136,283 187" fill="#F7F3E3" />

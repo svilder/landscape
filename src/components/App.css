@@ -1,5 +1,5 @@
 body {
-  min-height: 100vh;
+  height: 100vh;
   background: -webkit-linear-gradient(top, #071E22, #186877);
 }
 * { margin: 0; padding: 0; } 
@@ -32,6 +32,13 @@ body {
   left: 30%;
   z-index: 2;
   position: absolute;
+}
+
+.stars {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .cloud1 {
