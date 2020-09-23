@@ -5,6 +5,9 @@ body {
 /* 78A1BB */
 
 /* les arbres rouges : 8E3B46 */
+/* les troncs pales : AF9164 */
+/* quelques lignes presques blanches F7F3E3 */
+/* montagne 362B1C */
 .ground {
   z-index: 1;
   width: 100%;
