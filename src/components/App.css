@@ -29,7 +29,7 @@ body {
 
 .bigstar {
   top: 30%;
-  left: 30%;
+  left: 20%;
   z-index: 2;
   position: absolute;
 }
@@ -42,7 +42,7 @@ body {
 }
 
 .cloud1 {
-  z-index: 2;
+  z-index: 3;
   position: absolute;
   top: 20%;
   right: 4%;
@@ -54,4 +54,25 @@ body {
   position: absolute;
   top: 10%;
   right: 10%;
+}
+
+.tree1 {
+  z-index: 2;
+  position: absolute;
+  bottom: 16%;
+  right: 10%;
+}
+
+.tree2 {
+  z-index: 2;
+  position: absolute;
+  bottom: 9%;
+  right: 13%;
+}
+
+.tree3 {
+  z-index: 2;
+  position: absolute;
+  bottom: 11%;
+  right: 3%;
 }
