@@ -59,20 +59,20 @@ body {
 .tree1 {
   z-index: 2;
   position: absolute;
-  bottom: 14%;
+  bottom: 16%;
   right: 10%;
 }
 
 .tree2 {
   z-index: 2;
   position: absolute;
-  bottom: 7%;
-  right: 14%;
+  bottom: 9%;
+  right: 13%;
 }
 
 .tree3 {
   z-index: 2;
   position: absolute;
-  bottom: 9%;
+  bottom: 11%;
   right: 3%;
 }
