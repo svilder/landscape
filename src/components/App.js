@@ -1,5 +1,6 @@
 import React from 'react';
 import Star from './Star';
+import Tree from './Tree';
 import './App.css';
 
 const App = () => {
@@ -10,7 +11,7 @@ const App = () => {
       <polygon points="235 420,224 370,213 306,221 174,257 51,329 130,464 420" fill="#362B1C" />
       <polygon points="139 205,10 420,318 420,280 359,235 255,225 180,257 51" fill="#282015" />
     </svg>
-    <svg className="bigstar">
+    <svg height="80%" width="100%" className="bigstar">
       <circle cx="5" cy="5" r="5" fill="#F7F3E3" />
     </svg>
     <svg viewBox="0 0 100 100" height="80%" width="100%" className="stars">
@@ -34,6 +35,9 @@ const App = () => {
     <svg height="100" width="100" className="moon">
       <circle cx="50" cy="50" r="50" fill="#F7F3E3" />
     </svg>
+    <Tree cssClass="tree1" />
+    <Tree cssClass="tree2" />
+    <Tree cssClass="tree3" />
   </div>
   );
 }
