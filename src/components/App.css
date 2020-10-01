@@ -2,9 +2,9 @@ body {
   height: 100vh;
   background: -webkit-linear-gradient(top, #071E22, #186877);
 }
-* { margin: 0; padding: 0; } 
+* { margin: 0; padding: 0; }
 /* 78A1BB */
-
+/* palette : https://coolors.co/186877-43543b-56242b-1b150e-f7f3e3*/
 /* les arbres rouges : 8E3B46 */
 /* les troncs pales : AF9164 */
 /* quelques lignes presques blanches F7F3E3 */
